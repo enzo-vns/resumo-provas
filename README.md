@@ -22,7 +22,7 @@ Os materiais estão organizados por semestre e bimestre. No 3º semestre, as mat
 ### 1º bimestre
 
 1. [Engenharia de Requisitos](3o-semestre/1o-bimestre/01-engenharia-de-requisitos/fundamentos-e-ambientes-da-engenharia-de-requisitos.md)
-2. [Estrutura de Dados](3o-semestre/1o-bimestre/02-estrutura-de-dados/)
+2. [Estrutura de Dados](3o-semestre/1o-bimestre/02-estrutura-de-dados/strings-memoria-e-persistencia-em-c.md)
 3. [Banco de Dados](3o-semestre/1o-bimestre/03-banco-de-dados/fundamentos-e-modelagem-de-banco-de-dados.md)
 
 ### 2º bimestre
