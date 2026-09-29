@@ -18,6 +18,6 @@ Os materiais do **3º semestre** estão presentes nas duas branches de curso, in
 
 ## Como contribuir
 
-Adicione seu material na pasta do semestre, bimestre e disciplina correspondentes. Direcione o pull request para a branch `ADS`.
+Adicione seu material na pasta do semestre, bimestre e disciplina correspondentes. Direcione o pull request para a branch `analise-e-desenvolvimento-de-sistemas`.
 
 [Voltar à apresentação do projeto](https://github.com/enzo-vns/resumo-provas/tree/main)

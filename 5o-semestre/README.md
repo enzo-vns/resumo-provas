@@ -11,6 +11,6 @@ As pastas estão preparadas para receber os materiais deste semestre do curso.
 
 ## Como contribuir
 
-Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `ADS` como destino das alterações.
+Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `analise-e-desenvolvimento-de-sistemas` como destino das alterações.
 
 [Voltar ao índice de ADS](../README.md)
