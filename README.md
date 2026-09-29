@@ -8,14 +8,14 @@ Esta branch reúne do **1º ao 8º semestre** do curso. Cada pasta possui um REA
 
 | Semestre | Acesso |
 | --- | --- |
-| 1º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/1o-semestre) |
-| 2º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/2o-semestre) |
-| 3º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/3o-semestre) |
-| 4º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/4o-semestre) |
-| 5º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/5o-semestre) |
-| 6º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/6o-semestre) |
-| 7º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/7o-semestre) |
-| 8º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o/8o-semestre) |
+| 1º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/1o-semestre/README.md) |
+| 2º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/2o-semestre/README.md) |
+| 3º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/3o-semestre/README.md) |
+| 4º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/4o-semestre/README.md) |
+| 5º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/5o-semestre/README.md) |
+| 6º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/6o-semestre/README.md) |
+| 7º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/7o-semestre/README.md) |
+| 8º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Sistema-de-Informa%C3%A7%C3%A3o/8o-semestre/README.md) |
 
 Os materiais do **3º semestre** estão presentes nas duas branches de curso, incluindo as pastas de **Redes** no 1º e no 2º bimestres. Os demais semestres estão preparados para receber materiais específicos de SI.
 
