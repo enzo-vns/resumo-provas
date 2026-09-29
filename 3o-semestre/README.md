@@ -4,8 +4,8 @@ Materiais de estudo do **3º semestre de Análise e Desenvolvimento de Sistemas 
 
 ## Bimestres
 
-- [1º bimestre](1o-bimestre/)
-- [2º bimestre](2o-bimestre/)
+- [1º bimestre](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/1o-bimestre)
+- [2º bimestre](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/2o-bimestre)
 
 Os materiais deste semestre estão disponíveis tanto em ADS quanto em SI.
 
@@ -13,10 +13,10 @@ Os materiais deste semestre estão disponíveis tanto em ADS quanto em SI.
 
 | Disciplina | 1º bimestre | 2º bimestre |
 | --- | --- | --- |
-| Engenharia de Requisitos | [Materiais](1o-bimestre/01-engenharia-de-requisitos/) | [Materiais](2o-bimestre/01-engenharia-de-requisitos/) |
-| Estrutura de Dados | [Materiais](1o-bimestre/02-estrutura-de-dados/) | [Materiais](2o-bimestre/02-estrutura-de-dados/) |
-| Banco de Dados | [Materiais](1o-bimestre/03-banco-de-dados/) | [Materiais](2o-bimestre/03-banco-de-dados/) |
-| Redes | [Materiais](1o-bimestre/Redes/) | [Materiais](2o-bimestre/Redes/) |
+| Engenharia de Requisitos | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/1o-bimestre/01-engenharia-de-requisitos) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/2o-bimestre/01-engenharia-de-requisitos) |
+| Estrutura de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/1o-bimestre/02-estrutura-de-dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/2o-bimestre/02-estrutura-de-dados) |
+| Banco de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/1o-bimestre/03-banco-de-dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/2o-bimestre/03-banco-de-dados) |
+| Redes | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/1o-bimestre/Redes) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/3o-semestre/2o-bimestre/Redes) |
 
 As pastas de Redes estão preparadas para receber materiais.
 
@@ -24,4 +24,4 @@ As pastas de Redes estão preparadas para receber materiais.
 
 Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `Análise-e-Desenvolvimento-de-Sistemas` como destino das alterações.
 
-[Voltar ao índice de ADS](../README.md)
+[Voltar ao índice de ADS](https://github.com/enzo-vns/resumo-provas/blob/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/README.md)
