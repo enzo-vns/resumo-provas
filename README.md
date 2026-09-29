@@ -1,34 +1,24 @@
-# resumos-provas
+# Resumo de Provas — Unieuro
 
-Principais resumos de todas as provas.
+Repositório de estudos de alunos da **Unieuro** dos cursos de **Sistemas de Informação (SI)** e **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Os materiais estão organizados por semestre e bimestre. No 3º semestre, as matérias seguem a ordem indicada abaixo.
+Um espaço para compartilhar resumos, anotações e materiais de revisão, ajudar na preparação para as provas e aprender em conjunto ao longo da graduação.
 
-## Semestres
+## Acesse os materiais
 
-| Semestre | 1º bimestre | 2º bimestre |
-| --- | --- | --- |
-| 1º | [Abrir](1o-semestre/1o-bimestre/) | [Abrir](1o-semestre/2o-bimestre/) |
-| 2º | [Abrir](2o-semestre/1o-bimestre/) | [Abrir](2o-semestre/2o-bimestre/) |
-| 3º | [Abrir](3o-semestre/1o-bimestre/) | [Abrir](3o-semestre/2o-bimestre/) |
-| 4º | [Abrir](4o-semestre/1o-bimestre/) | [Abrir](4o-semestre/2o-bimestre/) |
-| 5º | [Abrir](5o-semestre/1o-bimestre/) | [Abrir](5o-semestre/2o-bimestre/) |
-| 6º | [Abrir](6o-semestre/1o-bimestre/) | [Abrir](6o-semestre/2o-bimestre/) |
-| 7º | [Abrir](7o-semestre/1o-bimestre/) | [Abrir](7o-semestre/2o-bimestre/) |
-| 8º | [Abrir](8o-semestre/1o-bimestre/) | [Abrir](8o-semestre/2o-bimestre/) |
+A branch `main` reúne a apresentação do projeto. Os materiais de estudo estão nas branches dos semestres, organizados em pastas por bimestre e disciplina.
 
-## Matérias do 3º semestre
+| Semestre | Materiais |
+| --- | --- |
+| 1º semestre | [1o-semestre](https://github.com/enzo-vns/resumo-provas/tree/1o-semestre/1o-semestre) |
+| 2º semestre | [2o-semestre](https://github.com/enzo-vns/resumo-provas/tree/2o-semestre/2o-semestre) |
+| 3º semestre | [3o-semestre](https://github.com/enzo-vns/resumo-provas/tree/3o-semestre/3o-semestre) |
+| 4º semestre | [4o-semestre](https://github.com/enzo-vns/resumo-provas/tree/4o-semestre/4o-semestre) |
+| 5º semestre | [5o-semestre](https://github.com/enzo-vns/resumo-provas/tree/5o-semestre/5o-semestre) |
+| 6º semestre | [6o-semestre](https://github.com/enzo-vns/resumo-provas/tree/6o-semestre/6o-semestre) |
+| 7º semestre | [7o-semestre](https://github.com/enzo-vns/resumo-provas/tree/7o-semestre/7o-semestre) |
+| 8º semestre | [8o-semestre](https://github.com/enzo-vns/resumo-provas/tree/8o-semestre/8o-semestre) |
 
-### 1º bimestre
+## Como contribuir
 
-1. [Engenharia de Requisitos](3o-semestre/1o-bimestre/01-engenharia-de-requisitos/fundamentos-e-ambientes-da-engenharia-de-requisitos.md)
-2. [Estrutura de Dados](3o-semestre/1o-bimestre/02-estrutura-de-dados/strings-memoria-e-persistencia-em-c.md)
-3. [Banco de Dados](3o-semestre/1o-bimestre/03-banco-de-dados/fundamentos-e-modelagem-de-banco-de-dados.md)
-
-### 2º bimestre
-
-1. [Engenharia de Requisitos](3o-semestre/2o-bimestre/01-engenharia-de-requisitos/)
-2. [Estrutura de Dados](3o-semestre/2o-bimestre/02-estrutura-de-dados/)
-3. [Banco de Dados](3o-semestre/2o-bimestre/03-banco-de-dados/)
-
-As pastas numeradas preservam essa ordem na listagem de arquivos. Novos materiais podem ser adicionados à pasta da matéria e do bimestre correspondentes.
+Escolha a branch do semestre correspondente e adicione seu material à pasta da disciplina e do bimestre. Correções, exemplos e novos resumos são bem-vindos!
