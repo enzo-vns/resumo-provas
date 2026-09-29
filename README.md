@@ -10,8 +10,8 @@ A branch `main` contém somente esta apresentação. Os materiais estão organiz
 
 | Branch | Curso | Semestres |
 | --- | --- | --- |
-| [ADS](https://github.com/enzo-vns/resumo-provas/tree/ADS) | Análise e Desenvolvimento de Sistemas | 1º ao 5º |
-| [SI](https://github.com/enzo-vns/resumo-provas/tree/SI) | Sistemas de Informação | 1º ao 8º |
+| [analise-e-desenvolvimento-de-sistemas](https://github.com/enzo-vns/resumo-provas/tree/analise-e-desenvolvimento-de-sistemas) | Análise e Desenvolvimento de Sistemas | 1º ao 5º |
+| [sistema-de-informacao](https://github.com/enzo-vns/resumo-provas/tree/sistema-de-informacao) | Sistemas de Informação | 1º ao 8º |
 
 Ao entrar na branch do curso, você encontra um README e as pastas dos semestres. Dentro de cada semestre ficam seu README e as pastas `1o-bimestre/` e `2o-bimestre/`, organizadas por disciplina.
 
@@ -23,6 +23,6 @@ Somente os materiais do 3º semestre são compartilhados entre os cursos. Os dem
 
 ## Como contribuir
 
-Escolha a branch do seu curso, acesse o semestre e adicione seu material ao bimestre e à disciplina correspondentes. Ao abrir um pull request, selecione `ADS` ou `SI` como destino, conforme o curso.
+Escolha a branch do seu curso, acesse o semestre e adicione seu material ao bimestre e à disciplina correspondentes. Ao abrir um pull request, selecione a branch correspondente ao seu curso como destino, conforme o curso.
 
 Correções, exemplos e novos resumos são bem-vindos!
