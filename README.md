@@ -1,32 +1,26 @@
-# Resumo de Provas — Unieuro
+# SI — Sistemas de Informação | Unieuro
 
-Repositório de estudos de alunos da **Unieuro** dos cursos de **Sistemas de Informação (SI)** e **Análise e Desenvolvimento de Sistemas (ADS)**.
+Resumos, anotações e materiais de revisão de alunos de **Sistemas de Informação (SI) da Unieuro**.
 
-Um espaço para compartilhar resumos, anotações e materiais de revisão, ajudar na preparação para as provas e aprender em conjunto ao longo da graduação.
+Esta branch reúne do **1º ao 8º semestre** do curso. Cada pasta possui um README e os dois bimestres, com os materiais organizados por disciplina.
 
-## Como o repositório está organizado
+## Semestres
 
-A branch `main` contém somente este README, com a apresentação do projeto e o índice de acesso. Ao entrar em uma branch de semestre, você encontra diretamente as pastas `1o-bimestre/` e `2o-bimestre/` e um `README.md` específico daquele semestre, com os links e as orientações dos seus materiais.
-
-Dentro de cada bimestre, os conteúdos são organizados por disciplina.
-
-| Branch | O que você encontra |
+| Semestre | Acesso |
 | --- | --- |
-| [1o-semestre](https://github.com/enzo-vns/resumo-provas/tree/1o-semestre) | Materiais do 1º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [2o-semestre](https://github.com/enzo-vns/resumo-provas/tree/2o-semestre) | Materiais do 2º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [3o-semestre](https://github.com/enzo-vns/resumo-provas/tree/3o-semestre) | Materiais do 3º semestre e README com links para Engenharia de Requisitos, Estrutura de Dados e Banco de Dados. Resumos disponíveis no 1º bimestre; pastas preparadas para o 2º. |
-| [4o-semestre](https://github.com/enzo-vns/resumo-provas/tree/4o-semestre) | Materiais do 4º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [5o-semestre](https://github.com/enzo-vns/resumo-provas/tree/5o-semestre) | Materiais do 5º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [6o-semestre](https://github.com/enzo-vns/resumo-provas/tree/6o-semestre) | Materiais do 6º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [7o-semestre](https://github.com/enzo-vns/resumo-provas/tree/7o-semestre) | Materiais do 7º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
-| [8o-semestre](https://github.com/enzo-vns/resumo-provas/tree/8o-semestre) | Materiais do 8º semestre e README de orientação. Pastas do 1º e 2º bimestres preparadas para receber resumos. |
+| 1º semestre | [Abrir materiais](1o-semestre/) |
+| 2º semestre | [Abrir materiais](2o-semestre/) |
+| 3º semestre | [Abrir materiais](3o-semestre/) |
+| 4º semestre | [Abrir materiais](4o-semestre/) |
+| 5º semestre | [Abrir materiais](5o-semestre/) |
+| 6º semestre | [Abrir materiais](6o-semestre/) |
+| 7º semestre | [Abrir materiais](7o-semestre/) |
+| 8º semestre | [Abrir materiais](8o-semestre/) |
 
-## Como acessar
-
-Clique na branch do semestre na tabela acima. O README daquela branch apresenta os materiais disponíveis e os links para as pastas de cada bimestre.
+Os materiais do **3º semestre** estão presentes nas duas branches de curso, incluindo as pastas de **Redes** no 1º e no 2º bimestres. Os demais semestres estão preparados para receber materiais específicos de SI.
 
 ## Como contribuir
 
-Escolha a branch do semestre correspondente e adicione seu material à pasta da disciplina e do bimestre. Ao abrir um pull request, selecione essa mesma branch como destino para manter cada semestre organizado separadamente.
+Adicione seu material na pasta do semestre, bimestre e disciplina correspondentes. Direcione o pull request para a branch `SI`.
 
-Correções, exemplos e novos resumos são bem-vindos!
+[Voltar à apresentação do projeto](https://github.com/enzo-vns/resumo-provas/tree/main)
