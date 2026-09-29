@@ -11,6 +11,6 @@ As pastas estão preparadas para receber os materiais deste semestre do curso.
 
 ## Como contribuir
 
-Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `SI` como destino das alterações.
+Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `sistema-de-informacao` como destino das alterações.
 
 [Voltar ao índice de SI](../README.md)
