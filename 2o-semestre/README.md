@@ -4,13 +4,13 @@ Materiais de estudo do **2º semestre de Análise e Desenvolvimento de Sistemas 
 
 ## Bimestres
 
-- [1º bimestre](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/2o-semestre/1o-bimestre)
-- [2º bimestre](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/2o-semestre/2o-bimestre)
+- [1º bimestre](https://github.com/enzo-vns/resumo-provas/tree/Analise-e-Desenvolvimento-de-Sistemas/2o-semestre/1o-bimestre)
+- [2º bimestre](https://github.com/enzo-vns/resumo-provas/tree/Analise-e-Desenvolvimento-de-Sistemas/2o-semestre/2o-bimestre)
 
 As pastas estão preparadas para receber os materiais deste semestre do curso.
 
 ## Como contribuir
 
-Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `Análise-e-Desenvolvimento-de-Sistemas` como destino das alterações.
+Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `Analise-e-Desenvolvimento-de-Sistemas` como destino das alterações.
 
-[Voltar ao índice de ADS](https://github.com/enzo-vns/resumo-provas/blob/An%C3%A1lise-e-Desenvolvimento-de-Sistemas/README.md)
+[Voltar ao índice de ADS](https://github.com/enzo-vns/resumo-provas/blob/Analise-e-Desenvolvimento-de-Sistemas/README.md)
