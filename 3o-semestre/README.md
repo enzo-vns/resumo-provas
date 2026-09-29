@@ -13,9 +13,9 @@ Os materiais deste semestre estão disponíveis tanto em ADS quanto em SI.
 
 | Disciplina | 1º bimestre | 2º bimestre |
 | --- | --- | --- |
-| Engenharia de Requisitos | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/01-engenharia-de-requisitos) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/01-engenharia-de-requisitos) |
-| Estrutura de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/02-estrutura-de-dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/02-estrutura-de-dados) |
-| Banco de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/03-banco-de-dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/03-banco-de-dados) |
+| Engenharia de Requisitos | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/Engenharia%20de%20Requisitos) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/Engenharia%20de%20Requisitos) |
+| Estrutura de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/Estrutura%20de%20Dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/Estrutura%20de%20Dados) |
+| Banco de Dados | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/Banco%20de%20Dados) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/Banco%20de%20Dados) |
 | Redes | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/1o-bimestre/Redes) | [Materiais](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informacao/3o-semestre/2o-bimestre/Redes) |
 
 As pastas de Redes estão preparadas para receber materiais.
