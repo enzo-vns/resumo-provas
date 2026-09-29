@@ -6,9 +6,9 @@ Um espaço para compartilhar resumos, anotações e materiais de revisão, ajuda
 
 ## Como o repositório está organizado
 
-A branch `main` contém somente este README, com a apresentação do projeto e o índice de acesso. Cada branch de semestre contém apenas a pasta daquele semestre e um README próprio, com os links e as orientações dos seus materiais.
+A branch `main` contém somente este README, com a apresentação do projeto e o índice de acesso. Ao entrar em uma branch de semestre, você encontra diretamente as pastas `1o-bimestre/` e `2o-bimestre/` e um `README.md` específico daquele semestre, com os links e as orientações dos seus materiais.
 
-Dentro da pasta de cada semestre, os conteúdos são separados por bimestre e disciplina.
+Dentro de cada bimestre, os conteúdos são organizados por disciplina.
 
 | Branch | O que você encontra |
 | --- | --- |
