@@ -84,5 +84,3 @@ Elicitação é o processo de descobrir, minerar e entender as necessidades do c
   - **Modelagem Estrutural:** Mostra a parte estática do sistema (as “peças”). *Exemplos:* Diagrama de Classes (estruturas de dados e relacionamentos), Diagrama de Objetos e Diagrama de Componentes (módulos de software).
 
 ---
-
-> **Nota:** As referências– foram mantidas conforme o texto fornecido. Os dados bibliográficos dessas fontes não foram informados.
