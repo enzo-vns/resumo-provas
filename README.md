@@ -1,34 +1,18 @@
-# resumos-provas
+# 4º semestre — SI e ADS | Unieuro
 
-Principais resumos de todas as provas.
+Materiais de estudo do **4º semestre** compartilhados por alunos de **Sistemas de Informação (SI)** e **Análise e Desenvolvimento de Sistemas (ADS)** da **Unieuro**.
 
-Os materiais estão organizados por semestre e bimestre. No 3º semestre, as matérias seguem a ordem indicada abaixo.
+Esta branch (`4o-semestre`) reúne somente a pasta do 4º semestre e este README. Os materiais estão organizados por bimestre e disciplina.
 
-## Semestres
+## Materiais por bimestre
 
-| Semestre | 1º bimestre | 2º bimestre |
-| --- | --- | --- |
-| 1º | [Abrir](1o-semestre/1o-bimestre/) | [Abrir](1o-semestre/2o-bimestre/) |
-| 2º | [Abrir](2o-semestre/1o-bimestre/) | [Abrir](2o-semestre/2o-bimestre/) |
-| 3º | [Abrir](3o-semestre/1o-bimestre/) | [Abrir](3o-semestre/2o-bimestre/) |
-| 4º | [Abrir](4o-semestre/1o-bimestre/) | [Abrir](4o-semestre/2o-bimestre/) |
-| 5º | [Abrir](5o-semestre/1o-bimestre/) | [Abrir](5o-semestre/2o-bimestre/) |
-| 6º | [Abrir](6o-semestre/1o-bimestre/) | [Abrir](6o-semestre/2o-bimestre/) |
-| 7º | [Abrir](7o-semestre/1o-bimestre/) | [Abrir](7o-semestre/2o-bimestre/) |
-| 8º | [Abrir](8o-semestre/1o-bimestre/) | [Abrir](8o-semestre/2o-bimestre/) |
+- [1º bimestre](4o-semestre/1o-bimestre/)
+- [2º bimestre](4o-semestre/2o-bimestre/)
 
-## Matérias do 3º semestre
+As pastas estão preparadas para receber materiais. Ainda não há resumos adicionados a este semestre.
 
-### 1º bimestre
+## Como contribuir
 
-1. [Engenharia de Requisitos](3o-semestre/1o-bimestre/01-engenharia-de-requisitos/fundamentos-e-ambientes-da-engenharia-de-requisitos.md)
-2. [Estrutura de Dados](3o-semestre/1o-bimestre/02-estrutura-de-dados/strings-memoria-e-persistencia-em-c.md)
-3. [Banco de Dados](3o-semestre/1o-bimestre/03-banco-de-dados/fundamentos-e-modelagem-de-banco-de-dados.md)
+Adicione resumos, anotações ou exercícios à pasta `4o-semestre/`, no bimestre e na disciplina correspondentes. Ao propor alterações, use a branch `4o-semestre` como destino.
 
-### 2º bimestre
-
-1. [Engenharia de Requisitos](3o-semestre/2o-bimestre/01-engenharia-de-requisitos/)
-2. [Estrutura de Dados](3o-semestre/2o-bimestre/02-estrutura-de-dados/)
-3. [Banco de Dados](3o-semestre/2o-bimestre/03-banco-de-dados/)
-
-As pastas numeradas preservam essa ordem na listagem de arquivos. Novos materiais podem ser adicionados à pasta da matéria e do bimestre correspondentes.
+[Voltar à apresentação e à lista de semestres](https://github.com/enzo-vns/resumo-provas/tree/main)
