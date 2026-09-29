@@ -22,6 +22,6 @@ As pastas de Redes estão preparadas para receber materiais.
 
 ## Como contribuir
 
-Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `sistema-de-informacao` como destino das alterações.
+Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `Sistema-de-Informação` como destino das alterações.
 
 [Voltar ao índice de SI](../README.md)
