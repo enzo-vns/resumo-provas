@@ -22,6 +22,6 @@ As pastas de Redes estão preparadas para receber materiais.
 
 ## Como contribuir
 
-Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `analise-e-desenvolvimento-de-sistemas` como destino das alterações.
+Adicione seu material ao bimestre e à disciplina correspondentes. Use a branch `Análise-e-Desenvolvimento-de-Sistemas` como destino das alterações.
 
 [Voltar ao índice de ADS](../README.md)
