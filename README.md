@@ -14,10 +14,9 @@ Esta branch reúne do **1º ao 5º semestre** do curso. Cada pasta possui um REA
 | 4º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Analise-e-Desenvolvimento-de-Sistemas/4o-semestre/README.md) |
 | 5º semestre | [Abrir materiais](https://github.com/enzo-vns/resumo-provas/blob/Analise-e-Desenvolvimento-de-Sistemas/5o-semestre/README.md) |
 
-Os materiais do **3º semestre** estão presentes nas duas branches de curso, incluindo as pastas de **Redes** no 1º e no 2º bimestres. Os demais semestres estão preparados para receber materiais específicos de ADS.
+Os materiais do **3º semestre** estão presentes nas duas branches de curso, incluindo as pastas de **Redes de Computadores** no 1º e no 2º bimestres. Os demais semestres estão preparados para receber materiais específicos de ADS.
 
 ## Como contribuir
 
-Adicione seu material na pasta do semestre, bimestre e disciplina correspondentes. Direcione o pull request para a branch `Analise-e-Desenvolvimento-de-Sistemas`.
-
+Siga o [passo a passo detalhado para contribuir](https://github.com/enzo-vns/resumo-provas/blob/main/README.md#como-contribuir), usando esta branch (`Analise-e-Desenvolvimento-de-Sistemas`) como base e destino do pull request. Escolha o semestre, bimestre e disciplina correspondentes; no 3º semestre, Redes fica na pasta `Redes de Computadores`.
 [Voltar à apresentação do projeto](https://github.com/enzo-vns/resumo-provas/tree/main)
