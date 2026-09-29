@@ -10,8 +10,8 @@ A branch `main` contém somente esta apresentação. Os materiais estão organiz
 
 | Branch | Curso | Semestres |
 | --- | --- | --- |
-| [analise-e-desenvolvimento-de-sistemas](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas) | Análise e Desenvolvimento de Sistemas | 1º ao 5º |
-| [sistema-de-informacao](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o) | Sistemas de Informação | 1º ao 8º |
+| [Análise-e-Desenvolvimento-de-Sistemas](https://github.com/enzo-vns/resumo-provas/tree/An%C3%A1lise-e-Desenvolvimento-de-Sistemas) | Análise e Desenvolvimento de Sistemas | 1º ao 5º |
+| [Sistema-de-Informação](https://github.com/enzo-vns/resumo-provas/tree/Sistema-de-Informa%C3%A7%C3%A3o) | Sistemas de Informação | 1º ao 8º |
 
 Ao entrar na branch do curso, você encontra um README e as pastas dos semestres. Dentro de cada semestre ficam seu README e as pastas `1o-bimestre/` e `2o-bimestre/`, organizadas por disciplina.
 
@@ -23,6 +23,6 @@ Somente os materiais do 3º semestre são compartilhados entre os cursos. Os dem
 
 ## Como contribuir
 
-Escolha a branch do seu curso, acesse o semestre e adicione seu material ao bimestre e à disciplina correspondentes. Ao abrir um pull request, selecione a branch correspondente ao seu curso como destino, conforme o curso.
+Escolha a branch do seu curso, acesse o semestre e adicione seu material ao bimestre e à disciplina correspondentes. Ao abrir um pull request, selecione a branch correspondente ao seu curso como destino.
 
 Correções, exemplos e novos resumos são bem-vindos!
