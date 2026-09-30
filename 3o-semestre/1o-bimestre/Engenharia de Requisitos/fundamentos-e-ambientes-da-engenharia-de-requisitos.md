@@ -3,7 +3,8 @@
 ## 1. Fundamentos e Contexto da Engenharia de Requisitos
 
 - **O erro que mudou tudo (Sonda Mariner 1, 1962):** Um erro clássico na tradução de especificações matemáticas (um hífen/fórmula de transição omitido em um documento manuscrito copiado para o código) fez a nave desviar da rota logo após o lançamento, exigindo sua destruição intencional. **Aplicação:** Demonstra que falhas na especificação ou na comunicação de requisitos geram prejuízos catastróficos.
-- **Manifesto Ágil (2001):** Conjunto de valores e princípios que prioriza indivíduos e interações, software em funcionamento, colaboração com o cliente e resposta rápida a mudanças, em vez de processos rígidos. **Aplicação:** Na Engenharia de Requisitos moderna, ajuda a negociar requisitos de forma iterativa em vez de engessar tudo no início.
+- **Manifesto Ágil (2001):** Conjunto de valores e princípios que prioriza indivíduos e interações, software em funcionamento, colaboração com o cliente e resposta rápida a mudanças, em vez de processos rígidos. 
+  - **Aplicação:** Na Engenharia de Requisitos moderna, ajuda a negociar requisitos de forma iterativa em vez de engessar tudo no início.
 - **Por que a Engenharia de Requisitos é essencial:**
   - **Base do projeto:** Evita construir a coisa certa do jeito errado ou (pior) a coisa errada.
   - **Melhoria da comunicação:** Alinha o que o cliente quer com o que o desenvolvedor programa.
@@ -45,7 +46,8 @@ Elicitação é o processo de descobrir, minerar e entender as necessidades do c
 
 - **Entrevistas:** Conversas estruturadas ou abertas com stakeholders.
   - **Etapas:** Planejamento (definir perguntas e quem entrevistar), condução (executar a conversa e ouvir ativamente), análise (processar as anotações) e validação (confirmar com o entrevistado se você entendeu certo).
-  - **Vantagens:** Permite profundidade. **Desvantagens:** Consome muito tempo e depende da boa vontade/clareza do entrevistado.
+  - **Vantagens:** Permite profundidade. 
+  - **Desvantagens:** Consome muito tempo e depende da boa vontade/clareza do entrevistado.
 - **Questionários:** Ótimos para coletar dados quantitativos de um público amplo e disperso rapidamente.
 - **Observação / Etnografia:** O analista vai até o local de trabalho do usuário e observa como ele executa a tarefa na prática. **Aplicação:** Excelente para descobrir *“requisitos tácitos”* (coisas que o usuário faz por hábito e esquece de contar na entrevista).
 - **Brainstorming e prototipagem:**
@@ -66,7 +68,8 @@ Elicitação é o processo de descobrir, minerar e entender as necessidades do c
   3. **Completo:** Descreve tudo o que é necessário.
   4. **Consistente:** Sem contradições entre os requisitos.
   5. **Verificável / Testável:** Deve ser possível provar por meio de testes se o requisito foi atendido ou não.
-- **Rastreabilidade e mudanças:** Capacidade de ligar um requisito à linha de código ou caso de teste correspondente. **Aplicação:** Se uma lei muda (ex.: alíquota de imposto), a rastreabilidade mostra exatamente quais partes do sistema precisam ser alteradas.
+- **Rastreabilidade e mudanças:** Capacidade de ligar um requisito à linha de código ou caso de teste correspondente. 
+  - **Aplicação:** Se uma lei muda (ex.: alíquota de imposto), a rastreabilidade mostra exatamente quais partes do sistema precisam ser alteradas.
 - **Gerência de Requisitos no CMMI-DEV:** Área de processo do CMMI focada em gerenciar os requisitos do produto e garantir a consistência entre esses requisitos, os planos do projeto e os artefatos gerados. Envolve:
   1. Entender os requisitos com a concordância do cliente.
   2. Obter compromisso da equipe.
